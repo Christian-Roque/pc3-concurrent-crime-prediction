@@ -1,0 +1,20 @@
+# Datos pesados y salidas generadas localmente
+data/
+output/
+evidencias/
+.evidence/
+
+# Binarios Go
+*.exe
+*.test
+api
+mlnode
+prepare
+train
+pc3
+
+# Sistema/editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
